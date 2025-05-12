@@ -1,16 +1,16 @@
-# Exidy Sorcerer DreamDisk - Disk Controller
+# Exidy Sorcerer/Microbee DreamDisk - Disk Controller
 
-A Disk Controller for the Exidy Sorcerer, based on the Disk Controller by DreamCards.
+A Disk Controller for the Exidy Sorcerer and Microbee, based on the Disk Controller by DreamCards.
 
 CAUTION: ! This is currently untested !
 
-![Sorcerer DreamDisk Front](Current/Sorcerer_DreamDisk_Rev1_0_Front.png)
-[Schematics](Current/Sorcerer_DreamDisk_Rev1_0_Schematics.pdf)
+![Sorcerer DreamDisk Front](Latest/Sorcerer_DreamDisk_Rev1_1_Front.png)
+[Schematics](Latest/Sorcerer_DreamDisk_Rev1_1_Schematics.pdf)
 
 
 ## Gerber Files
-- [PCBWay](Current/Sorcerer_DreamDisk_Rev1_0_Gerber_PCBWay.zip)
-- [JLCPCB](Current/Sorcerer_DreamDisk_Rev1_0_Gerber_JLCPCB.zip)
+- [PCBWay](Latest/Sorcerer_DreamDisk_Rev1_1_Gerber_PCBWay.zip)
+- [JLCPCB](Latest/Sorcerer_DreamDisk_Rev1_1_Gerber_JLCPCB.zip)
 
 ## Attribution
 - Marcel Erz (RetroStack)

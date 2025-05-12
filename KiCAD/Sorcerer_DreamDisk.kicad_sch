@@ -1,0 +1,1578 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "bfa05b03-a55b-4248-a002-84e7d3075c31")
+	(paper "USLetter")
+	(title_block
+		(title "Sorcerer Dream Disk")
+		(date "2025-05-04")
+		(rev "1.1")
+		(company "Marcel Erz (RetroStack), John Halkiadakis, Michael Borthwick (Exidyboy)")
+		(comment 4 "Dream Disk Main Components")
+	)
+	(lib_symbols)
+	(text "Sorcerer DreamDisk"
+		(exclude_from_sim no)
+		(at 15.494 22.86 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "fc307574-d8c9-4a34-85ae-eccbeb1321c1")
+	)
+	(junction
+		(at 91.44 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05ae4731-3b0f-4e0e-b987-961bf36861ef")
+	)
+	(junction
+		(at 88.9 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1286a679-1e84-48ec-ad5a-07486e7860d9")
+	)
+	(junction
+		(at 118.11 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2cb582b0-b971-4a81-b5a7-fcea82c7a809")
+	)
+	(junction
+		(at 84.455 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b30bf9c-4994-4438-94e4-3a701a183db3")
+	)
+	(junction
+		(at 180.975 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d8ce80c-55ee-4c4e-8328-a5df06274ca4")
+	)
+	(junction
+		(at 113.03 126.365)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd90dd87-a7cc-415a-97a5-5ae2c8653d73")
+	)
+	(wire
+		(pts
+			(xy 113.03 134.62) (xy 113.03 126.365)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08a67973-2dad-41b0-b226-968fa8fcdb2c")
+	)
+	(wire
+		(pts
+			(xy 88.9 97.79) (xy 152.4 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1224d152-8375-469b-b1b8-3fc2629bf9cd")
+	)
+	(wire
+		(pts
+			(xy 176.53 100.33) (xy 190.5 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12c8774b-5d69-4aaa-8e10-3c8d2d8ad514")
+	)
+	(wire
+		(pts
+			(xy 187.325 63.5) (xy 176.53 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "133c8663-e5a0-40cf-97b4-72c775e7acd2")
+	)
+	(wire
+		(pts
+			(xy 46.355 60.325) (xy 40.005 60.325)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "165650bb-fe33-4d0e-a804-c7f35130fb9a")
+	)
+	(wire
+		(pts
+			(xy 176.53 105.41) (xy 190.5 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2499cad1-a132-4ae8-80c1-5e25b585289b")
+	)
+	(wire
+		(pts
+			(xy 66.675 115.57) (xy 120.65 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2858441e-20ec-4525-8c8d-4ec85397a7e7")
+	)
+	(wire
+		(pts
+			(xy 176.53 97.79) (xy 190.5 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2af6a3c5-227a-4e92-989a-cafb5bc97a37")
+	)
+	(wire
+		(pts
+			(xy 141.605 107.95) (xy 152.4 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bc1b4e3-b819-4fed-8bb5-43aded05c427")
+	)
+	(wire
+		(pts
+			(xy 141.605 118.11) (xy 190.5 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2eb8aa93-e0fa-4b0d-bb0f-fb34a491d4b9")
+	)
+	(bus
+		(pts
+			(xy 118.11 105.41) (xy 120.65 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31e53b7e-ec6e-42e9-8fad-30659e7f9f4f")
+	)
+	(wire
+		(pts
+			(xy 40.005 44.45) (xy 187.325 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31f5d184-6c54-49af-bf20-a60a9511d36b")
+	)
+	(bus
+		(pts
+			(xy 66.675 60.325) (xy 152.4 60.325)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32abdda3-7ad8-4fd8-b23b-c293f4285e54")
+	)
+	(wire
+		(pts
+			(xy 66.675 85.09) (xy 87.63 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38157fd5-ad9b-46d5-b7c0-5a8e1b2cde0d")
+	)
+	(wire
+		(pts
+			(xy 113.03 85.09) (xy 113.03 126.365)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38705121-9267-4f85-913f-6ec8ac56efd2")
+	)
+	(wire
+		(pts
+			(xy 91.44 95.25) (xy 91.44 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "460818e7-dde7-4a0c-be88-5e1fe72a208f")
+	)
+	(wire
+		(pts
+			(xy 66.675 95.25) (xy 91.44 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48042e44-b342-4007-a561-070960a7e617")
+	)
+	(wire
+		(pts
+			(xy 40.005 60.325) (xy 40.005 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "480d0443-735f-4fea-ad35-9580c1edb866")
+	)
+	(wire
+		(pts
+			(xy 84.455 74.93) (xy 87.63 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "506b5ee1-54bb-4ca8-8333-7f06a3832f60")
+	)
+	(wire
+		(pts
+			(xy 80.01 78.74) (xy 87.63 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56a321ec-b1aa-4f4c-908b-3dad1aa23b33")
+	)
+	(bus
+		(pts
+			(xy 118.11 63.5) (xy 152.4 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cab8afe-dc3d-42f3-ae33-a092b8ac544c")
+	)
+	(wire
+		(pts
+			(xy 109.22 81.28) (xy 152.4 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6111651f-e59a-464c-970b-5c75309e132c")
+	)
+	(wire
+		(pts
+			(xy 88.9 97.79) (xy 88.9 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66b4e626-e186-4249-93b9-41631fbc7770")
+	)
+	(wire
+		(pts
+			(xy 180.975 50.165) (xy 180.975 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6808c296-a18f-45f6-bb85-e404236988d9")
+	)
+	(wire
+		(pts
+			(xy 141.605 126.365) (xy 190.5 126.365)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6be46536-b715-44d8-b25d-972877bf4cb5")
+	)
+	(wire
+		(pts
+			(xy 88.9 111.76) (xy 120.65 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fc0c72e-a8fa-4c33-9401-d8ca4ccc497e")
+	)
+	(wire
+		(pts
+			(xy 84.455 67.945) (xy 152.4 67.945)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c410dba-6590-4daa-8785-5bcc8cc03352")
+	)
+	(wire
+		(pts
+			(xy 176.53 82.55) (xy 190.5 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cf6c4c9-73a5-47a6-a5f0-2b964bd55545")
+	)
+	(wire
+		(pts
+			(xy 176.53 80.01) (xy 180.975 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "817e8607-7c6c-4129-a39e-d0c851f5f3ca")
+	)
+	(wire
+		(pts
+			(xy 91.44 95.25) (xy 152.4 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8432d300-25a7-46fe-8f79-f8fde08f7f41")
+	)
+	(wire
+		(pts
+			(xy 176.53 85.09) (xy 190.5 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8807f3ec-c7de-4b3a-96c4-61a4c66e17ab")
+	)
+	(wire
+		(pts
+			(xy 78.105 81.28) (xy 78.105 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "882d22b2-f4af-4cc2-8e3b-c5547ed6940b")
+	)
+	(wire
+		(pts
+			(xy 66.675 92.075) (xy 152.4 92.075)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8babdbef-baf3-447f-9754-9eefdc22a3e9")
+	)
+	(wire
+		(pts
+			(xy 141.605 120.65) (xy 190.5 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bc066e6-659f-4fd2-8bab-7c93b590d050")
+	)
+	(wire
+		(pts
+			(xy 87.63 81.28) (xy 78.105 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c805e6c-affc-435b-a81c-4b94319f28d7")
+	)
+	(wire
+		(pts
+			(xy 141.605 115.57) (xy 190.5 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "906842de-314d-448c-9b0d-84962b1fa6f2")
+	)
+	(wire
+		(pts
+			(xy 176.53 77.47) (xy 190.5 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92cf04be-db42-4faf-aabe-031f855ca478")
+	)
+	(wire
+		(pts
+			(xy 176.53 107.95) (xy 190.5 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa6a6060-3d6b-4ea3-8ae1-18149b5c65bd")
+	)
+	(wire
+		(pts
+			(xy 141.605 105.41) (xy 152.4 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acda75d8-78bf-4d27-8326-ee759dc68cdc")
+	)
+	(wire
+		(pts
+			(xy 109.22 85.09) (xy 113.03 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b260b079-eeea-4a3d-8708-4348d29a2aa6")
+	)
+	(wire
+		(pts
+			(xy 113.03 126.365) (xy 120.65 126.365)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7147abe-a701-435d-b53c-7b69c340f13e")
+	)
+	(wire
+		(pts
+			(xy 109.22 78.74) (xy 152.4 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd58f9fd-4a1c-4fbd-bba9-5d2610556251")
+	)
+	(bus
+		(pts
+			(xy 66.675 63.5) (xy 118.11 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdea0f92-ce47-4627-ac2c-c6f56fc700e9")
+	)
+	(wire
+		(pts
+			(xy 180.975 80.01) (xy 190.5 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2035a5e-0228-4145-8522-7436ad20bf4f")
+	)
+	(wire
+		(pts
+			(xy 113.03 134.62) (xy 190.5 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c24dca46-c1f4-45ab-a4ac-57ff75a09a4e")
+	)
+	(wire
+		(pts
+			(xy 187.325 44.45) (xy 187.325 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2cb36e6-40d5-442b-bbd4-157d707fecdf")
+	)
+	(wire
+		(pts
+			(xy 78.105 50.165) (xy 180.975 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd5c01a5-0224-4be6-a5e1-47484781d064")
+	)
+	(wire
+		(pts
+			(xy 179.07 60.325) (xy 179.07 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d709b78c-743b-41ee-9a38-f2743e9edabd")
+	)
+	(wire
+		(pts
+			(xy 80.01 52.07) (xy 80.01 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9583d63-9836-422e-b10d-14a1fcf86d25")
+	)
+	(wire
+		(pts
+			(xy 91.44 109.22) (xy 120.65 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc31cd17-db9c-41b0-ab4a-0d6f6ff59ff1")
+	)
+	(wire
+		(pts
+			(xy 179.07 52.07) (xy 80.01 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e06d6ed7-278f-4d13-8d2b-35d91cfdc15c")
+	)
+	(wire
+		(pts
+			(xy 141.605 123.19) (xy 190.5 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e43f7cd4-0cb9-4aea-acdf-7ef30b90efd3")
+	)
+	(wire
+		(pts
+			(xy 66.675 97.79) (xy 88.9 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e585e48e-343b-4958-9cc6-5e10a5d768fb")
+	)
+	(bus
+		(pts
+			(xy 118.11 63.5) (xy 118.11 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6316a93-75dd-4d9f-9146-04703e9a5bfe")
+	)
+	(wire
+		(pts
+			(xy 66.675 74.93) (xy 84.455 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e631c36f-a257-48c9-a1c4-b0ad6f088263")
+	)
+	(wire
+		(pts
+			(xy 84.455 67.945) (xy 84.455 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef060952-c142-4f72-9fa0-f06fbc82bcd1")
+	)
+	(wire
+		(pts
+			(xy 176.53 60.325) (xy 179.07 60.325)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0684d52-a61e-49ff-9d46-97016a939b9f")
+	)
+	(wire
+		(pts
+			(xy 176.53 74.93) (xy 190.5 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7d550f4-ce38-4aa3-b249-205f2ede0887")
+	)
+	(wire
+		(pts
+			(xy 176.53 102.87) (xy 190.5 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f86df761-92a4-435a-b3b7-e65dd60b4f03")
+	)
+	(sheet
+		(at 120.65 103.505)
+		(size 20.955 24.765)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "17fbb4b6-76fe-4080-9c6f-e2c2b80c5768")
+		(property "Sheetname" "Drive Select Register"
+			(at 120.65 102.7934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drive_Select_Register.kicad_sch"
+			(at 120.65 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "~{DRV_A}" output
+			(at 141.605 115.57 0)
+			(uuid "c1f03874-209c-4593-b9af-502d7fc27e1c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GD[0..7]" tri_state
+			(at 120.65 105.41 180)
+			(uuid "d4090769-b1e8-483f-aea8-1999dafffe52")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DRV_B}" output
+			(at 141.605 118.11 0)
+			(uuid "cfd7357f-6958-4757-94db-530b452362d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{SIDE_1}" output
+			(at 141.605 126.365 0)
+			(uuid "419e739b-89e1-44c2-b132-7c3847327d40")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{DRV_D}" output
+			(at 141.605 123.19 0)
+			(uuid "3335cae8-d16f-4a49-8df7-4d989acd5a2f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{DRV_C}" output
+			(at 141.605 120.65 0)
+			(uuid "24ba02e8-9c18-46c9-9506-2963068c91ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{PORT48}" input
+			(at 120.65 115.57 180)
+			(uuid "153804a5-5d02-4c5c-81aa-b3c00bf100fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{WR}" input
+			(at 120.65 111.76 180)
+			(uuid "3a229a0f-16f1-413b-915b-0a95755c8276")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{RD}" input
+			(at 120.65 109.22 180)
+			(uuid "42d2b74c-5993-4a65-8238-9903dbd128ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{ENMF}" output
+			(at 141.605 105.41 0)
+			(uuid "f758a427-0afa-42ff-ba62-6ba6ddb539ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{DDEN}" output
+			(at 141.605 107.95 0)
+			(uuid "648e2e97-4ef2-459c-80ff-e6280bf6648d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MTR_ON" input
+			(at 120.65 126.365 180)
+			(uuid "2fb0b57a-ae44-4b31-8dee-688ec2a4effc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Sorcerer_DreamDisk"
+				(path "/bfa05b03-a55b-4248-a002-84e7d3075c31"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 46.355 58.42)
+		(size 20.32 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "89a40cfe-af54-4693-9930-24fd2b411ca5")
+		(property "Sheetname" "Computer Connector"
+			(at 46.355 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Computer_Connector.kicad_sch"
+			(at 46.355 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "GD[0..7]" tri_state
+			(at 66.675 63.5 0)
+			(uuid "99ccd4d0-f23d-44d4-9c26-00b483bee9bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{PORT44}" output
+			(at 66.675 74.93 0)
+			(uuid "ea588930-796f-4e3c-b695-7429fae0010f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{PORT48}" output
+			(at 66.675 115.57 0)
+			(uuid "e9b7f828-fdb4-4f08-a9f5-1ac66fcd1b1a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{REQ}" input
+			(at 46.355 60.325 180)
+			(uuid "9c40d087-76a2-48ea-a176-1177dfe5fb7f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "A[0..1]" output
+			(at 66.675 60.325 0)
+			(uuid "bbca862b-62db-44a0-a0d3-5831d8d2c842")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{M1}" output
+			(at 66.675 85.09 0)
+			(uuid "41355ddd-3182-447c-99df-8ca7beff14e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{RESET}" output
+			(at 66.675 92.075 0)
+			(uuid "305dfbfd-f24c-43c5-ad34-726c76c0a58a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{RD}" output
+			(at 66.675 95.25 0)
+			(uuid "f1dc2e37-ddb9-4257-bf0b-2e234862d970")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{WR}" output
+			(at 66.675 97.79 0)
+			(uuid "87229e9f-70cc-49b8-aa2e-f582111f924a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sorcerer_DreamDisk"
+				(path "/bfa05b03-a55b-4248-a002-84e7d3075c31"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 58.42)
+		(size 24.13 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "93221635-f3b9-4df6-bcaf-91f1f0bfd993")
+		(property "Sheetname" "Floppy Disk Controller"
+			(at 152.4 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Floppy_Disk_Controller.kicad_sch"
+			(at 152.4 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "~{DIR}" output
+			(at 176.53 100.33 0)
+			(uuid "d7ac9712-e9f0-42b2-8bbd-ecc2d566b293")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{IDX_PULSE}" input
+			(at 176.53 80.01 0)
+			(uuid "c77bbbb8-4796-4fb9-9b43-48e2687e4c28")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{LOW_CURR}" output
+			(at 176.53 107.95 0)
+			(uuid "67ea0e72-5d6a-4af1-a2d3-75842873b456")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{RAW_RD}" input
+			(at 176.53 85.09 0)
+			(uuid "efa9518f-18be-409d-afbc-45e7e39f548b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{STEP}" output
+			(at 176.53 97.79 0)
+			(uuid "f5fec4d5-9c81-4b60-963d-7ae861bb3d0c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{TRK00}" input
+			(at 176.53 82.55 0)
+			(uuid "19d5ed23-b49f-4884-8ac3-9d554f55a884")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{WR_DATA}" output
+			(at 176.53 102.87 0)
+			(uuid "c297391c-29f2-4357-bddf-3521d87b9b89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{WR_GATE}" output
+			(at 176.53 105.41 0)
+			(uuid "d2a220c0-6505-445b-af5c-8cb26001bee0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{WR_PROTECT}" input
+			(at 176.53 77.47 0)
+			(uuid "e68ee493-c0f0-4e29-a1bd-155f419a0010")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TIMER_RDY" input
+			(at 152.4 81.28 180)
+			(uuid "7e2b2398-075e-46df-b7e5-ed71adadee25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DISK_RDY}" input
+			(at 176.53 74.93 0)
+			(uuid "8816c487-4c7e-43dd-b750-30eec214ac1c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{PORT44}" input
+			(at 152.4 67.945 180)
+			(uuid "586c9d5c-3bd2-4370-ba5c-14b6c329f15f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{RD}" input
+			(at 152.4 95.25 180)
+			(uuid "87cc3bc7-d474-4d36-9b29-638be4e52a10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{WR}" input
+			(at 152.4 97.79 180)
+			(uuid "7c7d33db-3950-49e3-8c34-607310222ead")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "A[0..1]" input
+			(at 152.4 60.325 180)
+			(uuid "4a1e6bb2-9e82-4a06-b315-4e6002f4dfec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HLD" output
+			(at 176.53 60.325 0)
+			(uuid "15cb53a4-26d6-416c-b94e-bc9667392199")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HLT" input
+			(at 152.4 78.74 180)
+			(uuid "884d6a1c-5588-4cec-9334-79db729e64c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{REQ}" output
+			(at 176.53 63.5 0)
+			(uuid "9afa67b7-27e3-483a-acbd-01e02b787794")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{DDEN}" input
+			(at 152.4 107.95 180)
+			(uuid "c899c3ba-c093-4352-a5da-0e3cc3a1fcba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{ENMF}" input
+			(at 152.4 105.41 180)
+			(uuid "0093bbd1-31d5-4f06-a811-a0804da38c14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GD[0..7]" tri_state
+			(at 152.4 63.5 180)
+			(uuid "03be20da-f84e-447f-8e66-8fc3a5265fdb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{RESET}" input
+			(at 152.4 92.075 180)
+			(uuid "cd46b9f3-cb5b-41f7-bff9-22adb83807c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Sorcerer_DreamDisk"
+				(path "/bfa05b03-a55b-4248-a002-84e7d3075c31"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 72.39)
+		(size 21.59 15.875)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "96a35e5e-757e-48d4-bcaa-76326e35d924")
+		(property "Sheetname" "Timer"
+			(at 87.63 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Timer.kicad_sch"
+			(at 87.63 88.8496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "HLD" input
+			(at 87.63 78.74 180)
+			(uuid "623bcd2f-a15c-4d63-9778-141ffc3ead89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HLT" output
+			(at 109.22 78.74 0)
+			(uuid "979b7411-e9a5-4ee9-8ff1-97da36444dab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{IDX_PLS}" input
+			(at 87.63 81.28 180)
+			(uuid "ceffc3c0-93a1-4d2e-b7c8-a1f0ddf2a6db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RDY" output
+			(at 109.22 81.28 0)
+			(uuid "3399fdd8-6f14-4cb4-9919-c7caeb2de06c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{PORT44}" input
+			(at 87.63 74.93 180)
+			(uuid "3ea6e6bc-d2e4-4fb7-8573-fcc51daf8843")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{M1}" input
+			(at 87.63 85.09 180)
+			(uuid "5746b5dd-32a4-4833-8e7b-d19a18b183a1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MTR_ON" output
+			(at 109.22 85.09 0)
+			(uuid "89ded860-15bd-4514-af44-f23a6547e5b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sorcerer_DreamDisk"
+				(path "/bfa05b03-a55b-4248-a002-84e7d3075c31"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 73.025)
+		(size 16.51 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "d2849a3e-daa0-4678-a512-e1c7bc598818")
+		(property "Sheetname" "Disk Connector"
+			(at 190.5 72.3134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Disk_Connector.kicad_sch"
+			(at 190.5 137.1096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "~{DIR}" input
+			(at 190.5 100.33 180)
+			(uuid "452253fa-0fb2-464c-a132-39162e2e6335")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DRV_A}" input
+			(at 190.5 115.57 180)
+			(uuid "1a65a477-9578-4034-b968-e94074ab651c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DRV_B}" input
+			(at 190.5 118.11 180)
+			(uuid "44cdc140-1834-4eff-813a-6f8098d9fb7a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DRV_C}" input
+			(at 190.5 120.65 180)
+			(uuid "63f32ffd-fdd5-4a18-aa81-7c0718c37690")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{DRV_D}" input
+			(at 190.5 123.19 180)
+			(uuid "8b2ae78a-f7de-4c59-8a58-81dd4941f0e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{IDX_PULSE}" output
+			(at 190.5 80.01 180)
+			(uuid "62681e8e-262e-477d-9269-23072dca42e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{LOW_CURR}" input
+			(at 190.5 107.95 180)
+			(uuid "99f9d8ae-3da1-4b13-8bce-7c62c68032c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{MTR_ON}" input
+			(at 190.5 134.62 180)
+			(uuid "cd0a2b12-23d2-4756-86b2-f436feda6465")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{RAW_RD}" output
+			(at 190.5 85.09 180)
+			(uuid "e511100b-c4bc-418d-9f45-71c6665b69ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{RDY}" output
+			(at 190.5 74.93 180)
+			(uuid "2cd44449-6be5-4a20-b21e-117dea43017e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{SIDE_1}" input
+			(at 190.5 126.365 180)
+			(uuid "d69ae05f-a92d-4380-aedb-549019cb3118")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{STEP}" input
+			(at 190.5 97.79 180)
+			(uuid "f2bc3573-1b5f-4afb-88bf-44a98e4cd700")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{TRK00}" output
+			(at 190.5 82.55 180)
+			(uuid "b27d1009-a460-491c-8847-009a2a7f42fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{WR_DATA}" input
+			(at 190.5 102.87 180)
+			(uuid "90a9ebcf-5cb3-473d-abbc-adb588ed8a54")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{WR_GATE}" input
+			(at 190.5 105.41 180)
+			(uuid "e82e1cc6-1956-4a52-8160-61f6e0ec9808")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{WR_PROTECT}" output
+			(at 190.5 77.47 180)
+			(uuid "63b6e3b5-0f8f-4d2f-9658-0ae47da9e391")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Sorcerer_DreamDisk"
+				(path "/bfa05b03-a55b-4248-a002-84e7d3075c31"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 189.23)
+		(size 12.7 8.255)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "e8de84f7-a6bb-4618-8ff4-7dc847edeee4")
+		(property "Sheetname" "Power"
+			(at 137.16 188.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 137.16 198.0696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Sorcerer_DreamDisk"
+				(path "/bfa05b03-a55b-4248-a002-84e7d3075c31"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
