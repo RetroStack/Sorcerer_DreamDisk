@@ -23111,7 +23111,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "Microbee"
+	(gr_text "MicroBee"
 		(at 135.763 107.315 0)
 		(layer "F.SilkS")
 		(uuid "b63809a9-204e-4635-8397-b356b709b209")
