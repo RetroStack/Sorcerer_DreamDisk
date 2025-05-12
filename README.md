@@ -4,7 +4,7 @@ A Disk Controller for the Exidy Sorcerer and MicroBee, based on the Disk Control
 
 CAUTION: ! This is currently untested !
 
-![Sorcerer DreamDisk Front](Latest/Sorcerer_DreamDisk_Rev1_1_Front.png)
+![Sorcerer DreamDisk Overview](Latest/Sorcerer_DreamDisk_Rev1_1_Overview.png)
 [Schematics](Latest/Sorcerer_DreamDisk_Rev1_1_Schematics.pdf)
 
 
