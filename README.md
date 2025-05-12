@@ -1,6 +1,6 @@
-# Exidy Sorcerer/Microbee DreamDisk - Disk Controller
+# Exidy Sorcerer/MicroBee DreamDisk - Disk Controller
 
-A Disk Controller for the Exidy Sorcerer and Microbee, based on the Disk Controller by DreamCards.
+A Disk Controller for the Exidy Sorcerer and MicroBee, based on the Disk Controller by DreamCards.
 
 CAUTION: ! This is currently untested !
 
