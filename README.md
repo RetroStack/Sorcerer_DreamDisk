@@ -2,6 +2,8 @@
 
 A Disk Controller for the Exidy Sorcerer and MicroBee, based on the Disk Controller by DreamCards.
 
+See the ["Notes for Testing Dreamdisk PCB.pdf"](http://filebrowser.exidysorcerer.net/) file at the [Exidy Sorcerer forum](https://www.exidysorcerer.net/) on how to setup and test the PCB including the jumpers.
+
 CAUTION: ! This is currently untested !
 
 ![Sorcerer DreamDisk Overview](Latest/Sorcerer_DreamDisk_Rev1_1_Overview.png)
